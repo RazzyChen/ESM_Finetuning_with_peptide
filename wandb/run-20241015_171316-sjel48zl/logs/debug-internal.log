@@ -1,0 +1,21 @@
+{"time":"2024-10-15T17:13:16.053329604+08:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-15T17:13:16.053351599+08:00","level":"INFO","msg":"created symlink","path":"/home/zhaolab/Documents/YZC_SSD/ESM_LoRA/wandb/run-20241015_171316-sjel48zl/logs/debug-core.log"}
+{"time":"2024-10-15T17:13:16.056472823+08:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-15T17:13:16.068269709+08:00","level":"INFO","msg":"created new stream","id":"sjel48zl"}
+{"time":"2024-10-15T17:13:16.068300492+08:00","level":"INFO","msg":"stream: started","id":"sjel48zl"}
+{"time":"2024-10-15T17:13:16.068361055+08:00","level":"INFO","msg":"sender: started","stream_id":{"value":"sjel48zl"}}
+{"time":"2024-10-15T17:13:16.06838827+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"sjel48zl"}}
+{"time":"2024-10-15T17:13:16.068361942+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"sjel48zl"}}
+{"time":"2024-10-15T17:13:16.783976559+08:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-15T17:13:16.784838356+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-15T17:14:29.534514853+08:00","level":"INFO","msg":"stream: closing","id":"sjel48zl"}
+{"time":"2024-10-15T17:14:29.534566143+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-15T17:14:29.535715619+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-15T17:14:29.81774898+08:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-10-15T17:14:29.817775649+08:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-10-15T17:14:29.817782092+08:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-10-15T17:14:31.073063969+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-15T17:14:32.31651141+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"sjel48zl"}}
+{"time":"2024-10-15T17:14:32.316583682+08:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"sjel48zl"}}
+{"time":"2024-10-15T17:14:32.316563137+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"sjel48zl"}}
+{"time":"2024-10-15T17:14:32.316672141+08:00","level":"INFO","msg":"stream: closed","id":"sjel48zl"}

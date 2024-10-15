@@ -1,0 +1,21 @@
+{"time":"2024-10-15T17:10:10.948637718+08:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-15T17:10:10.948674876+08:00","level":"INFO","msg":"created symlink","path":"/home/zhaolab/Documents/YZC_SSD/ESM_LoRA/wandb/run-20241015_171010-7mu1ubvd/logs/debug-core.log"}
+{"time":"2024-10-15T17:10:10.957994376+08:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-15T17:10:10.96998197+08:00","level":"INFO","msg":"created new stream","id":"7mu1ubvd"}
+{"time":"2024-10-15T17:10:10.970011505+08:00","level":"INFO","msg":"stream: started","id":"7mu1ubvd"}
+{"time":"2024-10-15T17:10:10.970054785+08:00","level":"INFO","msg":"sender: started","stream_id":{"value":"7mu1ubvd"}}
+{"time":"2024-10-15T17:10:10.970056504+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"7mu1ubvd"}}
+{"time":"2024-10-15T17:10:10.970089206+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"7mu1ubvd"}}
+{"time":"2024-10-15T17:10:11.620308558+08:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-15T17:10:11.621589821+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-15T17:11:36.222301588+08:00","level":"INFO","msg":"stream: closing","id":"7mu1ubvd"}
+{"time":"2024-10-15T17:11:36.222362267+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-15T17:11:36.223441745+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-15T17:11:36.463816708+08:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-10-15T17:11:36.463838381+08:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-10-15T17:11:36.463844561+08:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-10-15T17:11:37.819998368+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-15T17:11:38.444163472+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"7mu1ubvd"}}
+{"time":"2024-10-15T17:11:38.444282112+08:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"7mu1ubvd"}}
+{"time":"2024-10-15T17:11:38.444249324+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"7mu1ubvd"}}
+{"time":"2024-10-15T17:11:38.444430877+08:00","level":"INFO","msg":"stream: closed","id":"7mu1ubvd"}
